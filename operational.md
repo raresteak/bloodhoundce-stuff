@@ -36,7 +36,7 @@ docker-compose down
 
 ### Run a collection
 https://support.bloodhoundenterprise.io/hc/en-us/articles/17715215791899-Getting-started-with-BloodHound-Community-Edition
-
+https://github.com/BloodHoundAD/SharpHound/releases
 
 ### Uploading new data
 https://support.bloodhoundenterprise.io/hc/en-us/articles/17715215791899-Getting-started-with-BloodHound-Community-Edition

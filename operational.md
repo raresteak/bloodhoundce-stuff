@@ -47,4 +47,5 @@ https://support.bloodhoundenterprise.io/hc/en-us/articles/17715215791899-Getting
 5. Wait for ingestion to complete.
 6. Click Data Quality, select domain, inspect information.
 7. Click Explore to work with data.
+8. Click Cypher, then click the folder to open supplied searches.
 

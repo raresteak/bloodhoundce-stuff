@@ -1,2 +1,3 @@
-# bloodhoundce-stuff
-Cypher queries, etc
+# README.md
+
+* Useful cypher queries

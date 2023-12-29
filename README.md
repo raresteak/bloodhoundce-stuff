@@ -1,2 +1,2 @@
 # bloodhoundce-stuff
-Cipher queries, etc
+Cypher queries, etc

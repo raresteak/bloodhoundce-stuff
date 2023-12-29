@@ -19,7 +19,7 @@ If any container fails to start, wait a minute or so then execute the command ab
 ### Stopping containers
 From within the same folder as docker-compose.yml
 ```
-docker-compose stop -t 60
+docker-compose stop -t 300
 ```
 
 ### Updating containers

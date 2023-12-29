@@ -1,4 +1,4 @@
-# Cipher queries
+# Cypher queries
 
 ## Domain users with dangerous priviledges to domain groups.
 ```
